@@ -24,9 +24,4 @@ RUN python setup.py install
 EXPOSE 5000
 
 # Запустимо програму всередині контейнера
-#CMD ["python", "./personal_helper/run_bot.py"] 1a спроба
-#CMD ["pbot"]  2a спроба результат той самий
-#CMD ["python", "./setup.py"] 3a спроба error
-#CMD ["cmd"] 4a спроба error
-#CMD ["python"] 4a спроба empty
 CMD ["python", "cont_runner.py"]
