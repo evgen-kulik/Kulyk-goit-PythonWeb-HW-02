@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: group-project-personal-helper
-Version: 0.1
-Summary: the bot collects information entered by clients and stores it in the directory, it can also display it on the screen if necessary
-License: MIT
-Classifier: License :: OSI Approved :: MIT License
-Classifier: Programming Language :: Python :: 3.11
-Requires-Python: >=3.11
