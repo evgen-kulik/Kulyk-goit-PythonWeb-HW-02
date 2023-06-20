@@ -128,3 +128,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Additionally
+.idea/
+build/lib/personal_helper/
+group_project_personal_helper.egg-info/
